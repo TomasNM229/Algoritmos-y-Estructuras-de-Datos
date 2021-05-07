@@ -1,0 +1,8 @@
+﻿  FrmBlockchain.cpp
+c:\users\usuario\documents\ciclo 2020-1\mate computacional\tp_criptomonedas - copia\tp_criptomonedas\Transaccion.h(19): warning C4244: 'argumento': conversión de 'double' a 'char'; posible pérdida de datos
+  FrmPortada.cpp
+c:\users\usuario\documents\ciclo 2020-1\mate computacional\tp_criptomonedas - copia\tp_criptomonedas\Transaccion.h(19): warning C4244: 'argumento': conversión de 'double' a 'char'; posible pérdida de datos
+  Generando código...
+  FrmBlockchain.obj : /DEBUG:FASTLINK no se admite cuando hay presente código administrado; reiniciando vínculo con /DEBUG:FULL
+  TP_Criptomonedas.vcxproj -> C:\Users\USUARIO\Documents\Ciclo 2020-1\Mate computacional\TP_Criptomonedas - copia\Debug\TP_Criptomonedas.exe
+  TP_Criptomonedas.vcxproj -> C:\Users\USUARIO\Documents\Ciclo 2020-1\Mate computacional\TP_Criptomonedas - copia\Debug\TP_Criptomonedas.pdb (Partial PDB)
